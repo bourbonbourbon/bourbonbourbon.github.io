@@ -4,7 +4,7 @@ title = "bourbonbourbon's website"
 
 [params]
 Name = "Siddiqui Abdul Rahman"
-About = "I am a computer engineering student interested in __DevOps__ & __Cloud Computing__."
+About = "I am a computer engineering student interested in __DevOps__ & __CloudOps__."
 Email = "abdulrahman75157@gmail.com"
 Resume = "" # Add the filename with file extension.
 PostLimit = 4 # Sets the number of posts to display on the front page
