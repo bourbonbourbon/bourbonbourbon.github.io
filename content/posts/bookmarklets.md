@@ -34,7 +34,10 @@ All bookmarklets after the "javascript:" part have to be __url encoded__.
 
 Similarly, we can make another bookmarklet that would replace the domain in the URL with whatever we want.
 
-```javascript:window.open(location.href.replace(%2F%3A%5C%2F%5C%2F(%5B%5Cw-%5D%2B.)%3F(reddit%5C.com)%5C%2F%2Fi%2C%20%22%3A%2F%2Fl.opnxng.com%2F%22)%2C%20%22_self%22)```
+`
+javascript:window.open(location.
+href.replace(%2F%3A%5C%2F%5C%2F(%5B%5Cw-%5D%2B.)%3F(reddit%5C.com)%5C%2F%2Fi%2C%20%22%3A%2F%2Fl.opnxng.com%2F%22)%2C%20%22_self%22)
+`
 
 This will replace the host name "reddit.com" with an alternative front-end "l.opnxng.com"
 
