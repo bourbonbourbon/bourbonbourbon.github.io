@@ -2,12 +2,18 @@
 {{ partial "head.html" . }}
 
 <html>
+
 {{ partial "page_header.html" . }}
+
 <h1>{{ .Title }}</h1>
 <p class="post-meta"><time itemprop="datePublished">{{ .Date.Format "January 2, 2006" }}</time>
 </p>
-{{ .Content }}
+<h3>Table of Contents</h3>
+    {{.TableOfContents}}
 
-{{ partial "footer.html" . }}
+
+    {{ .Content }}
+
+    {{ partial "footer.html" . }}
 
 </html>
