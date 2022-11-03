@@ -17,11 +17,11 @@ We'll look at how to create bookmarklets in Firefox.
 
 In Mozilla Firefox, open your bookmarks toolbar by pressing __CTRL + B__, you can then right-click
 
-![](/assets/images/bookmarkmenu.png)
+![](/assets/img/bookmarkmenu.png)
 
  and click on "Add Bookmark..."
 
-![](/assets/images/bookmarkdialog.png)
+![](/assets/img/bookmarkdialog.png)
 
 We can write a JS script in the URL section of the prompted dialog box.
 

@@ -13,3 +13,7 @@ GoatCounterCode = ""
 [[params.profiles]]
 name = "GitHub"
 url = "https://github.com/bourbonbourbon"
+
+[[params.profiles]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/siddiqui-abdul-rahman-638a60210"
