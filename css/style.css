@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'Fira Code';
+    src: url(webfonts/FiraCode-Medium.ttf);
+}
+
 body {
     font-family: 'Fira Code';
     line-height: 1.5em;
