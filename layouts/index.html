@@ -22,7 +22,14 @@
 		<tr>
 			{{ if ne .Site.Params.Email "" }}
 			<td><i class="fas fa-envelope" aria-hidden="true"></i></td>
-			<td>&nbsp;<a href="mailto:{{ .Site.Params.Email}}">{{ .Site.Params.Email }}</a></td>
+			<td>&nbsp;<a href="mailto:{{ .Site.Params.Email}}">{{ .Site.Params.Email }}
+			</a></td>
+			{{ end }}
+		</tr>
+		<tr>
+			{{ if ne .Site.Params.GPG "" }}
+			<td><i class="fas fa-lock" aria-hidden="true"></i></td>
+			<td>&nbsp;<a href="{{ .Site.Params.GPG }}" target="_blank">GPG</a></td>
 			{{ end }}
 		</tr>
 	</table>
