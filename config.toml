@@ -1,0 +1,20 @@
+baseURL = 'https://bourbonbourbon.github.io/'
+languageCode = 'en-us'
+title = "bourbonbourbon's website"
+
+[params]
+Name = "Siddiqui Abdul Rahman"
+About = "I am a computer engineering student interested in __DevOps__ & __CloudOps__."
+Email = "abdulrahman75157@gmail.com"
+GPG = "https://github.com/bourbonbourbon.gpg"
+Resume = "Siddiqui-Abdul-Rahman.pdf"
+PostLimit = 4
+GoatCounterCode = ""
+
+[[params.profiles]]
+name = "GitHub"
+url = "https://github.com/bourbonbourbon"
+
+[[params.profiles]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/siddiqui-abdul-rahman-638a60210"
