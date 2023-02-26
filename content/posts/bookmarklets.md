@@ -32,7 +32,7 @@ javascript: (() => {
 ```
 
 Give a name to the bookmarklet and click on Save.  
-What this bookmarklet is going to do it open a alert window in the browser with the message 'Hello World'.  
+What this bookmarklet is going to do it open a alert window in the browser with the message "Hello World".  
 
 Similarly, we can make another bookmarklet that would replace the domain in the URL with whatever we want.
 
