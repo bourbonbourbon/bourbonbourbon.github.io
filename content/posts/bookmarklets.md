@@ -2,7 +2,7 @@
 title: "Bookmarklets"
 date: 2022-10-27T21:20:44+05:30
 draft: false
-tags: ['browsers', 'javascript', ]
+tags: ['browsers', 'javascript']
 ---
 
 ## What are bookmarklets?
@@ -32,7 +32,7 @@ javascript: (() => {
 ```
 
 Give a name to the bookmarklet and click on Save.  
-What this bookmarklet is going to do it open a alert window in the browser with the message "Hello World".  
+What this bookmarklet is going to do it open a alert window in the browser with the message 'Hello World'.  
 
 Similarly, we can make another bookmarklet that would replace the domain in the URL with whatever we want.
 
